@@ -32,11 +32,11 @@
 
 ---
 
-### 🚀 Fokus & Keahlian Utama
+### 🚀 Fokus & Minat
 
 - 📱 **Mobile App Development**: Berpengalaman membangun aplikasi kasir mobile (Flutter) dengan integrasi printer bluetooth thermal, sinkronisasi data, dan mode *offline-first*.
 - 🌐 **Web & Backend Multi-tenant**: Membangun sistem SaaS terdistribusi, RESTful API, dan sistem autentikasi dengan performa tinggi.
-- ⚙️ **Hardware & Tooling Integration**: Integrasi mesin kasir POS, scanner QR, hingga *print assistant*.
+- ⚙️ **Hardware & Tooling Integration**: Integrasi mesin kasir POS, scanner QR, hingga utilitas pendukung seperti *print assistant*.
 
 ---
 
@@ -76,14 +76,17 @@
 
 ---
 
-### 📌 Proyek Unggulan
+### 📦 Proyek Open Source
 
-| Proyek | Deskripsi | Tech Stack |
-| :--- | :--- | :--- |
-| **[kabarwarga](https://github.com/rizalahmaddd/kabarwarga)** | Platform informasi komunitas & warga dengan antarmuka dinamis. | `PHP` `Blade` |
-| **[kasir-toko](https://github.com/rizalahmaddd/kasir-toko)** | Web POS multi-tenant (SaaS) untuk manajemen toko, shift, kasbon, & laporan. | `PHP` `Laravel` `REST API` |
-| **[kasir-toko-mobile](https://github.com/rizalahmaddd/kasir-toko-mobile)** | Aplikasi mobile kasir dengan printer Bluetooth thermal & mode *offline*. | `Flutter` `Dart` |
-| **[qr-studio](https://github.com/rizalahmaddd/qr-studio)** | Generator & manajemen QR Code kustom modern berbasis web. | `TypeScript` |
+Beberapa repositori publik dan eksperimen kode yang saya bagikan secara terbuka:
+
+| Repositori | Stars | Deskripsi | Tech Stack |
+| :--- | :---: | :--- | :--- |
+| **[kabarwarga](https://github.com/rizalahmaddd/kabarwarga)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kabarwarga?style=flat-square&logo=github&color=e3b341) | Platform informasi komunitas & warga dengan antarmuka dinamis. | `PHP` `Blade` |
+| **[kasir-toko](https://github.com/rizalahmaddd/kasir-toko)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kasir-toko?style=flat-square&logo=github&color=e3b341) | Web POS multi-tenant (SaaS) untuk toko: kasir, shift, stok, kasbon, & laporan. | `PHP` `Laravel` `REST API` |
+| **[kasir-toko-mobile](https://github.com/rizalahmaddd/kasir-toko-mobile)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kasir-toko-mobile?style=flat-square&logo=github&color=e3b341) | Aplikasi kasir Flutter untuk toko: printer Bluetooth thermal & mode *offline*. | `Flutter` `Dart` |
+| **[qr-studio](https://github.com/rizalahmaddd/qr-studio)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/qr-studio?style=flat-square&logo=github&color=e3b341) | Tool generator QR code kustom berbasis web. | `TypeScript` |
+| **[paraf](https://github.com/rizalahmaddd/paraf)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/paraf?style=flat-square&logo=github&color=e3b341) | Utilitas / modul penanganan dokumen & paraf digital. | `PHP` |
 
 ---
 
@@ -103,5 +106,5 @@
 ---
 
 <div align="center">
-  <sub>Punya ide proyek, kebutuhan aplikasi kasir/SaaS, atau peluang kerja sama? Silakan kontak saya via LinkedIn atau WhatsApp! ☕</sub>
+  <sub>Punya ide proyek, kebutuhan aplikasi, atau sekadar ingin diskusi teknis? Silakan kontak saya via LinkedIn atau WhatsApp! ☕</sub>
 </div>
