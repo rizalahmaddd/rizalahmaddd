@@ -1,62 +1,107 @@
 <div align="center">
 
-# Hi there, I'm Rizal Ahmad 👋
-
-<!-- Typing SVG Headline -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Building+Web+SaaS+%26+Mobile+Apps;Flutter+%7C+Go+%7C+PHP+%7C+TypeScript" alt="Typing SVG" />
+<!-- Typing SVG Header -->
+<a href="https://github.com/rizalahmaddd">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Halo%2C+saya+Rizal+Ahmad+👋;Fullstack+%26+Mobile+Developer;Fokus+pada+SaaS%2C+POS+%26+Mobile+Apps;Bikin+Solusi+Digital+Rapi+%26+Scalable" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  Passionate software developer focusing on scalable web platforms, offline-first mobile apps, and developer tools.
+  Software Engineer asal Indonesia 🇮🇩 yang berfokus membangun aplikasi web multi-tenant, sistem POS kasir, dan aplikasi mobile <i>offline-first</i>. Senang mengeksplorasi arsitektur kode yang bersih dan performa tinggi.
 </p>
 
-<!-- Social / Contact Badges (Sesuaikan linknya) -->
+<!-- Status Ketersediaan -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢%20Terbuka%20untuk%20Kolaborasi%20%26%20Proyek-00C853?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Lokasi-Indonesia%20🇮🇩-1E293B?style=flat-square" alt="Lokasi" />
+</p>
+
+<!-- Kontak & Sosmed -->
 <p align="center">
   <a href="https://linkedin.com/in/rizalahmaddd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:emailmu@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/628xxxxxxxxxx" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
----
 
 </div>
 
-### 🛠️ Languages & Tools
+---
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 🚀 Fokus & Keahlian Utama
+
+- 📱 **Mobile App Development**: Berpengalaman membangun aplikasi kasir mobile (Flutter) dengan integrasi printer bluetooth thermal, sinkronisasi data, dan mode *offline-first*.
+- 🌐 **Web & Backend Multi-tenant**: Membangun sistem SaaS terdistribusi, RESTful API, dan sistem autentikasi dengan performa tinggi.
+- ⚙️ **Hardware & Tooling Integration**: Integrasi mesin kasir POS, scanner QR, hingga *print assistant*.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🛠️ Teknologi & Tools
+
+<table>
+  <tr>
+    <td width="25%"><b>Mobile & Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Backend & Bahasa</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Database & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 Proyek Unggulan
+
+| Proyek | Deskripsi | Tech Stack |
+| :--- | :--- | :--- |
+| **[kabarwarga](https://github.com/rizalahmaddd/kabarwarga)** | Platform informasi komunitas & warga dengan antarmuka dinamis. | `PHP` `Blade` |
+| **[kasir-toko](https://github.com/rizalahmaddd/kasir-toko)** | Web POS multi-tenant (SaaS) untuk manajemen toko, shift, kasbon, & laporan. | `PHP` `Laravel` `REST API` |
+| **[kasir-toko-mobile](https://github.com/rizalahmaddd/kasir-toko-mobile)** | Aplikasi mobile kasir dengan printer Bluetooth thermal & mode *offline*. | `Flutter` `Dart` |
+| **[qr-studio](https://github.com/rizalahmaddd/qr-studio)** | Generator & manajemen QR Code kustom modern berbasis web. | `TypeScript` |
+
+---
+
+### 📈 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizalahmaddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rizal's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalahmaddd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizalahmaddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub Rizal" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalahmaddd&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman Terbanyak" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- GitHub Streak Card -->
   <img src="https://streak-stats.demolab.com?user=rizalahmaddd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+<div align="center">
+  <sub>Punya ide proyek, kebutuhan aplikasi kasir/SaaS, atau peluang kerja sama? Silakan kontak saya via LinkedIn atau WhatsApp! ☕</sub>
+</div>
