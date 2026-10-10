@@ -80,14 +80,14 @@
 
 Beberapa repositori publik dan eksperimen kode yang saya bagikan secara terbuka:
 
-| Repositori | Stars | Deskripsi | Tech Stack |
-| :--- | :---: | :--- | :--- |
-| **[kabarwarga](https://github.com/rizalahmaddd/kabarwarga)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kabarwarga?style=flat-square&logo=github&color=e3b341) | Platform informasi komunitas & warga dengan antarmuka dinamis. | `PHP` `Blade` |
-| **[kasir-toko](https://github.com/rizalahmaddd/kasir-toko)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kasir-toko?style=flat-square&logo=github&color=e3b341) | Web POS multi-tenant (SaaS) untuk toko: kasir, shift, stok, kasbon, & laporan. | `PHP` `Laravel` `REST API` |
-| **[kasir-toko-mobile](https://github.com/rizalahmaddd/kasir-toko-mobile)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kasir-toko-mobile?style=flat-square&logo=github&color=e3b341) | Aplikasi kasir Flutter untuk toko: printer Bluetooth thermal & mode *offline*. | `Flutter` `Dart` |
-| **[qr-studio](https://github.com/rizalahmaddd/qr-studio)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/qr-studio?style=flat-square&logo=github&color=e3b341) | Tool generator QR code kustom berbasis web. | `TypeScript` |
-| **[paraf](https://github.com/rizalahmaddd/paraf)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/paraf?style=flat-square&logo=github&color=e3b341) | Utilitas / modul penanganan dokumen & paraf digital. | `PHP` |
-| **[prestasiku](https://github.com/rizalahmaddd/prestasiku)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/prestasiku?style=flat-square&logo=github&color=e3b341) | Platform portofolio rekam jejak akademik, olimpiade, dan galeri karya anak. | `PHP` |
+| Project | Stats | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[kabarwarga](https://github.com/rizalahmaddd/kabarwarga)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kabarwarga?style=flat-square&logo=github&color=e3b341) ![Forks](https://img.shields.io/github/forks/rizalahmaddd/kabarwarga?style=flat-square&logo=github&color=e3b341) | Platform informasi komunitas & warga dengan antarmuka dinamis. | `Laravel 13` `Blade` |
+| **[kasir-toko](https://github.com/rizalahmaddd/kasir-toko)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kasir-toko?style=flat-square&logo=github&color=e3b341) ![Forks](https://img.shields.io/github/forks/rizalahmaddd/kasir-toko?style=flat-square&logo=github&color=e3b341) | Web POS multi-tenant (SaaS) untuk toko: kasir, shift, stok, kasbon, & laporan. | `Laravel 13` `REST API` |
+| **[kasir-toko-mobile](https://github.com/rizalahmaddd/kasir-toko-mobile)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kasir-toko-mobile?style=flat-square&logo=github&color=e3b341) ![Forks](https://img.shields.io/github/forks/rizalahmaddd/kasir-toko-mobile?style=flat-square&logo=github&color=e3b341) | Aplikasi kasir Flutter untuk toko: printer Bluetooth thermal & mode *offline*. | `Flutter` `Dart` |
+| **[qr-studio](https://github.com/rizalahmaddd/qr-studio)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/qr-studio?style=flat-square&logo=github&color=e3b341) ![Forks](https://img.shields.io/github/forks/rizalahmaddd/qr-studio?style=flat-square&logo=github&color=e3b341) | Tool generator QR code kustom berbasis web. | `TypeScript` |
+| **[paraf](https://github.com/rizalahmaddd/paraf)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/paraf?style=flat-square&logo=github&color=e3b341) ![Forks](https://img.shields.io/github/forks/rizalahmaddd/paraf?style=flat-square&logo=github&color=e3b341) | Utilitas / modul penanganan dokumen & paraf digital. | `Laravel 13` |
+| **[prestasiku](https://github.com/rizalahmaddd/prestasiku)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/prestasiku?style=flat-square&logo=github&color=e3b341) ![Forks](https://img.shields.io/github/forks/rizalahmaddd/prestasiku?style=flat-square&logo=github&color=e3b341) | Platform portofolio rekam jejak akademik, olimpiade, dan galeri karya anak. | `Laravel 13` |
 ---
 
 ### 📈 Statistik GitHub
