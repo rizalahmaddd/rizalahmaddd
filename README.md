@@ -87,7 +87,8 @@ Beberapa repositori publik dan eksperimen kode yang saya bagikan secara terbuka:
 | **[kasir-toko-mobile](https://github.com/rizalahmaddd/kasir-toko-mobile)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/kasir-toko-mobile?style=flat-square&logo=github&color=e3b341) | Aplikasi kasir Flutter untuk toko: printer Bluetooth thermal & mode *offline*. | `Flutter` `Dart` |
 | **[qr-studio](https://github.com/rizalahmaddd/qr-studio)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/qr-studio?style=flat-square&logo=github&color=e3b341) | Tool generator QR code kustom berbasis web. | `TypeScript` |
 | **[paraf](https://github.com/rizalahmaddd/paraf)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/paraf?style=flat-square&logo=github&color=e3b341) | Utilitas / modul penanganan dokumen & paraf digital. | `PHP` |
-
+| **[paraf](https://github.com/rizalahmaddd/paraf)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/paraf?style=flat-square&logo=github&color=e3b341) | Utilitas / modul penanganan dokumen & paraf digital. | `PHP` |
+| **[prestasiku](https://github.com/rizalahmaddd/prestasiku)** | ![Stars](https://img.shields.io/github/stars/rizalahmaddd/prestasiku?style=flat-square&logo=github&color=e3b341) | Platform portofolio rekam jejak akademik, olimpiade, dan galeri karya anak[cite: 1]. | `PHP` |
 ---
 
 ### 📈 Statistik GitHub
