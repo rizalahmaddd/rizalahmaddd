@@ -98,19 +98,20 @@ Beberapa repositori publik dan eksperimen kode yang saya bagikan secara terbuka:
 ### 📊 Engineering Stats
 
 <div align="center">
-  <!-- Baris 1: Floating Transparent Stats & Streak -->
+  <!-- Baris 1: Stats & Top Languages Sejajar 2 Kolom (Total lebar ~540px, pas di layar) -->
   <a href="https://github.com/rizalahmaddd">
-    <img src="https://github-readme-stats.vercel.app/api?username=rizalahmaddd&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rizalahmaddd&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="165" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/rizalahmaddd">
-    <img src="https://streak-stats.demolab.com?user=rizalahmaddd&background=00000000&border=00000000&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" alt="GitHub Streak" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalahmaddd&layout=donut&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
   </a>
 </div>
 
-<div align="center" style="margin-top: 8px;">
-  <!-- Baris 2: Donut Chart Floating -->
+<div align="center">
+  <!-- Baris 2: Streak Stats Membentang di Bawah sebagai Footer Anchor -->
   <a href="https://github.com/rizalahmaddd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalahmaddd&layout=donut&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages" height="205" />
+    <img src="https://streak-stats.demolab.com?user=rizalahmaddd&background=00000000&border=00000000&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" alt="GitHub Streak" height="160" />
   </a>
 </div>
 
